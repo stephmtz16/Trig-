@@ -1,0 +1,2 @@
+# Trig-
+makes pretty patterns
